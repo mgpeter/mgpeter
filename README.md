@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a software dev and technical leader, mostly in the Azure and .NET world, yet not a stranger to front-end development.
+I'm a technical leader and a software developer, mostly in the Azure and .NET world, yet not a stranger to front-end development.
 
 
 [![blog](https://img.shields.io/badge/blog-usualexpat.com-brightgreen)](https://usualexpat.com) 
