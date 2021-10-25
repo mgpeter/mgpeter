@@ -1,9 +1,12 @@
-### Hi there 👋
+Hi there 👋
 
-I'm a software dev and technical leader, mostly in the Azure and .NET world, but not a stranger to front-end development.
+I'm a software dev and technical leader, mostly in the Azure and .NET world, yet not a stranger to front-end development.
 
-### Contact
 
-Read my ramblings on <a href="https://usualexpat.com" target="_blank">www.usualexpat.com</a>
+[![blog](https://img.shields.io/badge/blog-usualexpat.com-brightgreen)](https://usualexpat.com) 
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40pwieszynski&style=social&url=https%3A%2F%2Ftwitter.com%2Fpwieszynski)](https://twitter.com/pwieszynski)
+[![UsualExpat](https://img.shields.io/youtube/channel/views/UCUdilFzFJKfzwKghoAWov_g?label=UsualExpat&style=social)](https://www.youtube.com/user/mgpeter0)
 
-See me on <a href="https://www.linkedin.com/in/pwieszynski/" target="_blank">/in/pwieszynski</a>
+
+
+
